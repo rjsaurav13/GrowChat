@@ -7,20 +7,9 @@
     tools:context=".MainActivity2">
 
     <ImageView
-        android:id="@+id/imageView2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.341"
-        app:srcCompat="@drawable/hiringteam" />
-
-    <ImageView
         android:id="@+id/imageView3"
-        android:layout_width="108dp"
-        android:layout_height="92dp"
+        android:layout_width="342dp"
+        android:layout_height="325dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
@@ -38,6 +27,7 @@
         android:layout_alignParentTop="true"
         android:gravity="top"
         android:text="@string/join_our_pl"
+        android:textAlignment="center"
         android:textAppearance="@style/join_our_pl"
         android:textColor="@color/black"
         android:textSize="22sp"
