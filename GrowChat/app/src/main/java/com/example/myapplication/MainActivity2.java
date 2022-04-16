@@ -36,7 +36,7 @@ public class MainActivity2 extends AppCompatActivity {
             public void onClick(View view) {
                 Intent viewIntent =
                         new Intent("android.intent.action.VIEW",
-                                Uri.parse("https://quantumhunts.com/signup/"));
+                                Uri.parse("https://google.com"));
                 startActivity(viewIntent);
             }
         });
