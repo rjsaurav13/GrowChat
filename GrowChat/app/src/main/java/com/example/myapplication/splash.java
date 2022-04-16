@@ -18,7 +18,7 @@ public class splash extends AppCompatActivity {
     Animation topAnim;
     Animation bottomAnim;
     ImageView image;
-    TextView quantumhunt;
+    TextView growchat;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -32,14 +32,14 @@ public class splash extends AppCompatActivity {
         topAnim= AnimationUtils.loadAnimation(this,R.anim.top_animation);
         bottomAnim= AnimationUtils.loadAnimation(this,R.anim.bottom_animation);
         image=findViewById(R.id.image);
-        quantumhunt=findViewById(R.id.quantumhunt);
+        growchat=findViewById(R.id.quantumhunt);
 
 
         image.setAnimation(topAnim);
         image.setAnimation(bottomAnim);
 
-        quantumhunt.setAnimation(topAnim);
-        quantumhunt.setAnimation(bottomAnim);
+        growchat.setAnimation(topAnim);
+        growchat.setAnimation(bottomAnim);
 
 
         new Handler().postDelayed(new Runnable() {
