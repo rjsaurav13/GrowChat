@@ -42,19 +42,19 @@
         android:id="@+id/textView4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="400dp"
-        android:layout_marginBottom="0dp"
+        android:layout_marginTop="376dp"
+        android:layout_marginBottom="5dp"
         android:text="Password"
         app:layout_constraintBottom_toTopOf="@+id/rectangle_2"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.255"
+        app:layout_constraintHorizontal_bias="0.26"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="108dp"
-        android:layout_height="92dp"
+        android:layout_width="170dp"
+        android:layout_height="170dp"
         android:foregroundGravity="center"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -62,7 +62,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.079"
-        app:srcCompat="@drawable/square1_qh" />
+        app:srcCompat="@drawable/main" />
 
     <TextView
         android:id="@+id/textView2"
