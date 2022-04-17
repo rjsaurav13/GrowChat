@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "606982993699",
+    "project_id": "grow-chat-ee4c5",
+    "storage_bucket": "grow-chat-ee4c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606982993699:android:b318bc6dcf3fe36016be96",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606982993699-jfprfc60u250090h7p0le4g2q0556lfp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrkwbyYmtn7DAs9jXm3-bVi8Xfaz8cLPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606982993699-jfprfc60u250090h7p0le4g2q0556lfp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
