@@ -68,16 +68,18 @@
         android:layout_height="match_parent"
         android:src="@drawable/design"
         tools:layout_editor_absoluteX="0dp"
-        tools:layout_editor_absoluteY="-52dp" />
+        tools:layout_editor_absoluteY="46dp" />
 
     <ImageView
         android:id="@+id/imageView2"
         android:layout_width="224dp"
         android:layout_height="173dp"
+        android:layout_marginStart="91dp"
+        android:layout_marginTop="10dp"
         android:layout_marginEnd="96dp"
-        android:layout_marginBottom="548dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/gifImageView"
+        app:layout_constraintStart_toStartOf="@+id/gifImageView"
+        app:layout_constraintTop_toTopOf="@+id/gifImageView"
         app:srcCompat="@drawable/main" />
 
     <TextView
@@ -86,17 +88,20 @@
         android:layout_height="wrap_content"
         android:layout_alignParentLeft="true"
         android:layout_alignParentTop="true"
+        android:layout_marginStart="88dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="86dp"
+        android:layout_marginBottom="480dp"
         android:fontFamily="cursive"
         android:text="Welcome To grow Chat"
         android:textAppearance="@style/join_our_pl"
         android:textColor="#476964"
         android:textSize="30sp"
         android:textStyle="bold"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.3" />
+        app:layout_constraintBottom_toBottomOf="@+id/gifImageView"
+        app:layout_constraintEnd_toEndOf="@+id/gifImageView"
+        app:layout_constraintStart_toStartOf="@+id/gifImageView"
+        app:layout_constraintTop_toBottomOf="@+id/imageView2" />
     <!--    <Button-->
 <!--        android:id="@+id/button2"-->
 <!--        android:layout_width="wrap_content"-->
