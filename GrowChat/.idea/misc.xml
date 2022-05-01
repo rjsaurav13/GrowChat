@@ -4,10 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/MiniProject/Mini_project/GrowChat/app/src/main/res/layout/activity_main.xml" value="0.25" />
-        <entry key="..\:/MiniProject/Mini_project/GrowChat/app/src/main/res/layout/activity_main2.xml" value="0.264" />
+        <entry key="..\:/MiniProject/Mini_project/GrowChat/app/src/main/res/layout/activity_main2.xml" value="0.25" />
         <entry key="..\:/MiniProject/Mini_project/GrowChat/app/src/main/res/layout/activity_resetpass.xml" value="0.1" />
         <entry key="..\:/MiniProject/Mini_project/GrowChat/app/src/main/res/layout/activity_signup.xml" value="0.264" />
         <entry key="..\:/MiniProject/Mini_project/GrowChat/app/src/main/res/layout/activity_splash.xml" value="0.176" />
+        <entry key="..\:/MiniProject/Mini_project/GrowChat/app/src/main/res/layout/fragment_mainchat.xml" value="0.1" />
         <entry key="..\:/MiniProject/Mini_project/GrowChat/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/MyApplication/app/src/main/res/drawable-v24/loginbutton.xml" value="0.262" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/MyApplication/app/src/main/res/drawable-v24/rectangle_4.xml" value="0.262" />
