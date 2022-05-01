@@ -10,11 +10,6 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyApplication">
         <activity
-            android:name=".mainchat"
-            android:exported="false"
-            android:label="@string/title_activity_mainchat"
-            android:theme="@style/Theme.MyApplication.NoActionBar" />
-        <activity
             android:name=".resetpass"
             android:exported="false" />
         <activity
