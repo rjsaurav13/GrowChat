@@ -7,4 +7,7 @@
     <string name="reset_password"><a href="https://www.google.com/">Reset Password.</a></string>
     <string name="join_our_pl">Welcome to GrowChat</string>
     <string name="GrowChat">GrowChat</string>
+    <string name="title_activity_mainchat">mainchat</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
 </resources>
