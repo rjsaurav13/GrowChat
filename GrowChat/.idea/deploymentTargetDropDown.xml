@@ -7,11 +7,11 @@
         <deviceKey>
           <Key>
             <type value="VIRTUAL_DEVICE_PATH" />
-            <value value="C:\Users\amani\.android\avd\Growchat.avd" />
+            <value value="C:\Users\amani\.android\avd\miniproject.avd" />
           </Key>
         </deviceKey>
       </Target>
     </targetSelectedWithDropDown>
-    <timeTargetWasSelectedWithDropDown value="2022-04-30T17:29:57.095297100Z" />
+    <timeTargetWasSelectedWithDropDown value="2022-05-01T14:33:21.550777600Z" />
   </component>
 </project>
