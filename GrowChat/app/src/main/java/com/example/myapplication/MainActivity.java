@@ -77,7 +77,7 @@ public class MainActivity extends AppCompatActivity {
             mAuth.signInWithEmailAndPassword(email,password).addOnCompleteListener(task -> {
                 if(task.isSuccessful())
                 {
-                    startActivity(new Intent(MainActivity.this, ResetPasswordActivity.class));
+                    startActivity(new Intent(MainActivity.this, mainchat.class));
                 }
                 else
                 {
