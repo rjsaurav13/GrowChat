@@ -8,6 +8,16 @@
     <string name="join_our_pl">Welcome to GrowChat</string>
     <string name="GrowChat">GrowChat</string>
     <string name="title_activity_mainchat">mainchat</string>
-    <string name="tab_text_1">Tab 1</string>
-    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_1">Chat</string>
+    <string name="tab_text_2">Profile</string>
+    <string name="title_activity_mainchatpage">Mainchatpage</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="title_activity_chattingpage">chattingpage</string>
 </resources>
