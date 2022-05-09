@@ -41,7 +41,7 @@ public class signup extends AppCompatActivity {
         t2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent i = new Intent(signup.this,resetpass.class);
+                Intent i = new Intent(signup.this,ResetPasswordActivity.class);
                 startActivity(i);
             }
         });
