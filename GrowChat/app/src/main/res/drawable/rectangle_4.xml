@@ -4,6 +4,7 @@
     xmlns:aapt="http://schemas.android.com/aapt"
     android:width="135.48dp"
     android:height="45dp"
+
     android:viewportWidth="135.48"
     android:viewportHeight="45"
     >
@@ -16,7 +17,9 @@
 
         <path
             android:pathData="M0 0V45H135.484V0"
-            android:fillColor="#536DE6"
+            android:fillColor="#476964"
+
+
             />
 
     </group>
