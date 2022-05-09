@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity {
         t2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent i = new Intent(MainActivity.this,resetpass.class);
+                Intent i = new Intent(MainActivity.this,ResetPasswordActivity.class);
                 startActivity(i);
             }
         });
@@ -77,7 +77,7 @@ public class MainActivity extends AppCompatActivity {
             mAuth.signInWithEmailAndPassword(email,password).addOnCompleteListener(task -> {
                 if(task.isSuccessful())
                 {
-                    startActivity(new Intent(MainActivity.this, resetpass.class));
+                    startActivity(new Intent(MainActivity.this, ResetPasswordActivity.class));
                 }
                 else
                 {
