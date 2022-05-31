@@ -10,9 +10,16 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyApplication">
         <activity
-            android:name=".mainchat"
+            android:name=".Chat"
+            android:exported="false" />
+        <activity
+            android:name=".chat"
             android:exported="false"
-            android:label="@string/title_activity_mainchat"
+            android:label="@string/title_activity_chat" />
+        <activity
+            android:name=".ui.chatdrawer"
+            android:exported="false"
+            android:label="@string/title_activity_chatdrawer"
             android:theme="@style/Theme.MyApplication.NoActionBar" />
         <activity
             android:name=".ResetPasswordActivity"
