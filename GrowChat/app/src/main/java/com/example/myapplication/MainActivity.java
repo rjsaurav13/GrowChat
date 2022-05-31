@@ -63,7 +63,7 @@ public class MainActivity extends AppCompatActivity {
                 return;
             }
             if(password.isEmpty())
-            {
+             {
                 pass_word.setError("Password is empty");
                 pass_word.requestFocus();
                 return;
@@ -77,7 +77,7 @@ public class MainActivity extends AppCompatActivity {
             mAuth.signInWithEmailAndPassword(email,password).addOnCompleteListener(task -> {
                 if(task.isSuccessful())
                 {
-                    startActivity(new Intent(MainActivity.this, mainchat.class));
+                    startActivity(new Intent(MainActivity.this, ResetPasswordActivity.class));
                 }
                 else
                 {
