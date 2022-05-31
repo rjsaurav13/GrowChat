@@ -6,23 +6,36 @@
         <entry key="..\:/MiniProject/Mini_project/GrowChat/app/src/main/res/drawable/loginbutton.xml" value="0.254" />
         <entry key="..\:/MiniProject/Mini_project/GrowChat/app/src/main/res/drawable/rectangle_3.xml" value="0.1" />
         <entry key="..\:/MiniProject/Mini_project/GrowChat/app/src/main/res/drawable/rectangle_4.xml" value="0.1695" />
+        <entry key="..\:/MiniProject/Mini_project/GrowChat/app/src/main/res/layout/activity_chat.xml" value="0.1031578947368421" />
         <entry key="..\:/MiniProject/Mini_project/GrowChat/app/src/main/res/layout/activity_chattingpage.xml" value="0.14583333333333334" />
+        <entry key="..\:/MiniProject/Mini_project/GrowChat/app/src/main/res/layout/activity_dummy.xml" value="0.19429347826086957" />
         <entry key="..\:/MiniProject/Mini_project/GrowChat/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/MiniProject/Mini_project/GrowChat/app/src/main/res/layout/activity_main2.xml" value="0.25" />
-        <entry key="..\:/MiniProject/Mini_project/GrowChat/app/src/main/res/layout/activity_mainchat.xml" value="0.6" />
+        <entry key="..\:/MiniProject/Mini_project/GrowChat/app/src/main/res/layout/activity_mainchat.xml" value="0.2" />
         <entry key="..\:/MiniProject/Mini_project/GrowChat/app/src/main/res/layout/activity_mainchatpage.xml" value="0.12056737588652482" />
         <entry key="..\:/MiniProject/Mini_project/GrowChat/app/src/main/res/layout/activity_newresetpage.xml" value="0.264" />
-        <entry key="..\:/MiniProject/Mini_project/GrowChat/app/src/main/res/layout/activity_reset_password.xml" value="0.536" />
+        <entry key="..\:/MiniProject/Mini_project/GrowChat/app/src/main/res/layout/activity_reset_password.xml" value="0.264" />
         <entry key="..\:/MiniProject/Mini_project/GrowChat/app/src/main/res/layout/activity_resetpass.xml" value="0.25" />
-        <entry key="..\:/MiniProject/Mini_project/GrowChat/app/src/main/res/layout/activity_signup.xml" value="0.2" />
+        <entry key="..\:/MiniProject/Mini_project/GrowChat/app/src/main/res/layout/activity_signup.xml" value="0.4" />
         <entry key="..\:/MiniProject/Mini_project/GrowChat/app/src/main/res/layout/activity_splash.xml" value="0.176" />
+        <entry key="..\:/MiniProject/Mini_project/GrowChat/app/src/main/res/layout/activity_users.xml" value="0.2" />
+        <entry key="..\:/MiniProject/Mini_project/GrowChat/app/src/main/res/layout/app_bar_chat.xml" value="0.22871376811594202" />
+        <entry key="..\:/MiniProject/Mini_project/GrowChat/app/src/main/res/layout/app_bar_mainchat.xml" value="0.11666666666666667" />
         <entry key="..\:/MiniProject/Mini_project/GrowChat/app/src/main/res/layout/app_bar_mainchatpage.xml" value="0.264" />
+        <entry key="..\:/MiniProject/Mini_project/GrowChat/app/src/main/res/layout/content_chat.xml" value="0.14628623188405798" />
+        <entry key="..\:/MiniProject/Mini_project/GrowChat/app/src/main/res/layout/content_chatdrawer.xml" value="0.14221014492753623" />
+        <entry key="..\:/MiniProject/Mini_project/GrowChat/app/src/main/res/layout/content_mainchat.xml" value="0.13994565217391305" />
         <entry key="..\:/MiniProject/Mini_project/GrowChat/app/src/main/res/layout/content_mainchatpage.xml" value="0.1" />
         <entry key="..\:/MiniProject/Mini_project/GrowChat/app/src/main/res/layout/fragment_chattingpage.xml" value="0.1" />
+        <entry key="..\:/MiniProject/Mini_project/GrowChat/app/src/main/res/layout/fragment_dashboard.xml" value="0.176" />
         <entry key="..\:/MiniProject/Mini_project/GrowChat/app/src/main/res/layout/fragment_gallery.xml" value="0.1" />
-        <entry key="..\:/MiniProject/Mini_project/GrowChat/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/MiniProject/Mini_project/GrowChat/app/src/main/res/layout/fragment_home.xml" value="0.264" />
         <entry key="..\:/MiniProject/Mini_project/GrowChat/app/src/main/res/layout/fragment_mainchat.xml" value="0.264" />
-        <entry key="..\:/MiniProject/Mini_project/GrowChat/app/src/main/res/layout/fragment_slideshow.xml" value="0.1" />
+        <entry key="..\:/MiniProject/Mini_project/GrowChat/app/src/main/res/layout/fragment_slideshow.xml" value="0.264" />
+        <entry key="..\:/MiniProject/Mini_project/GrowChat/app/src/main/res/layout/item_message.xml" value="0.1" />
+        <entry key="..\:/MiniProject/Mini_project/GrowChat/app/src/main/res/layout/message_place.xml" value="0.14356884057971014" />
+        <entry key="..\:/MiniProject/Mini_project/GrowChat/app/src/main/res/layout/nav_header_chat.xml" value="0.22871376811594202" />
+        <entry key="..\:/MiniProject/Mini_project/GrowChat/app/src/main/res/layout/nav_header_mainchat.xml" value="0.536" />
         <entry key="..\:/MiniProject/Mini_project/GrowChat/app/src/main/res/layout/nav_header_mainchatpage.xml" value="0.264" />
         <entry key="..\:/MiniProject/Mini_project/GrowChat/app/src/main/res/menu/activity_main_drawer.xml" value="0.4" />
         <entry key="..\:/MiniProject/Mini_project/GrowChat/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
