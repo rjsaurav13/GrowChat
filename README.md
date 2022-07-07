@@ -1,7 +1,5 @@
+![s2](https://drive.google.com/file/d/18Gg8q1zkdLQNrzEc3dXotc5eCl6PWykP/view?usp=sharing)
 ## GROW CHAT
-
-
-
 
 ## Abstract
 
