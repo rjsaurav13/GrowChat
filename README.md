@@ -1,12 +1,7 @@
-![s2](https://drive.google.com/file/d/18Gg8q1zkdLQNrzEc3dXotc5eCl6PWykP/view?usp=sharing)
+![s2](GrowChat_V2/app/src/main/res/drawable/logom.png)
 ## GROW CHAT
 
 ## Abstract
-
-![Android App](https://img.shields.io/badge/library--management-system-orange.svg?style=flat-square) 
-![Chat App](https://img.shields.io/badge/DBMS-project-yellowgreen.svg?style=flat-square)
-![Open Source Programming](https://img.shields.io/badge/open--source-programming-ff69b4.svg?style=flat-square)
-
 The sole purpose of using this Mobile application “Grow Chat” is to help a person maintain a separate space for professional and personal chats during work/studies and use their time in productive way. We have divided our project in three phases.
 Phase 1	Implement chat functionality 
 Phase 2	Implement Audio and Video call (peer to peer)
