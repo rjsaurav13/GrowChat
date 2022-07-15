@@ -1,4 +1,6 @@
-![s2](GrowChat_V2/app/src/main/res/drawable/logom.png)
+<p align="center">
+<img width="250" height="250" src="GrowChat_V2/app/src/main/res/drawable/logom.png">
+</p>
 ## GROW CHAT
 
 ## Abstract
