@@ -1,7 +1,7 @@
+# GROW CHAT
 <p align="center">
 <img width="250" height="250" src="GrowChat_V2/app/src/main/res/drawable/logom.png">
 </p>
-## GROW CHAT
 
 ## Abstract
 The sole purpose of using this Mobile application “Grow Chat” is to help a person maintain a separate space for professional and personal chats during work/studies and use their time in productive way. We have divided our project in three phases.
@@ -9,9 +9,26 @@ Phase 1	Implement chat functionality
 Phase 2	Implement Audio and Video call (peer to peer)
 Phase 3	Implementing File Transfer
 
+## Core Features
+
+![login](https://img.shields.io/badge/login-teal.svg?style=flat-square) 
+![Sign-up](https://img.shields.io/badge/Signup-teal.svg?style=flat-square) 
+![account](https://img.shields.io/badge/Account-yellowgreen.svg?style=flat-square)
+![Chat](https://img.shields.io/badge/Chat-ff69b4.svg?style=flat-square)
+![Add Friend](https://img.shields.io/badge/Add_friend-dodgerblue.svg?style=flat-square) 
+![Logout](https://img.shields.io/badge/Logout-orange.svg?style=flat-square) 
 
 
+## Technology Stack Used
 
+![Java](https://img.shields.io/badge/Java-orange.svg?logo=java&style=flat-square) 
+![Firebase](https://img.shields.io/badge/Firebase-dodgerblue.svg?style=flat-square) 
+- Front End - **Java**
+- Back End - **Firebase**
+
+## Requirements
+
+The source code of this project is written in **Java**. So, you'll require **JAVA, Android Studio ,Firebase Modules** to run this project.
 
 ```javascript
 
