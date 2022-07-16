@@ -9,6 +9,8 @@ Phase 1	Implement chat functionality
 Phase 2	Implement Audio and Video call (peer to peer)
 Phase 3	Implementing File Transfer
 
+> **You can check the screenshots of User Interface [here](https://drive.google.com/drive/folders/1GzBt50KR9NblGV08vmYf0G--Urnfc6-l?usp=sharing).**
+
 ## Core Features
 
 ![login](https://img.shields.io/badge/login-teal.svg?style=flat-square) 
