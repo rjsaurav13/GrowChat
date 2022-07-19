@@ -35,7 +35,7 @@ The source code of this project is written in **Java**. So, you'll require **JAV
 ```javascript
 
   if (needHelp === true) {
-     var emailId = "rjsaurav13@gmail.com";
+     var emailId = "priyoditseervi1432@gmail.com";
      // email is the best way to reach out to me.
      sendEmail(emailId);
   }
@@ -44,10 +44,10 @@ The source code of this project is written in **Java**. So, you'll require **JAV
 
 Invite me to connect on 
 
-<a href="https://www.linkedin.com/in/sauravkumar1203/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Saurav%20Kumar-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/priyodit-choudhary-789787207/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Priyodit%20Choudhary-blue?style=flat-square&logo=linkedin"></a>
 
 
-[![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@saurav.k_&color=grey&logo=instagram&style=flat&logoColor=white&colorA=critical)](https://www.instagram.com/saurav.k_/)
+[![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@mr.seervi&color=grey&logo=instagram&style=flat&logoColor=white&colorA=critical)](https://www.instagram.com/mr.seervi/)
 
 
 Thank you for being here!
