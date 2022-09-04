@@ -5,8 +5,11 @@
 
 ## Abstract
 The sole purpose of using this Mobile application “Grow Chat” is to help a person maintain a separate space for professional and personal chats during work/studies and use their time in productive way. We have divided our project in three phases.
+
 Phase 1	Implement chat functionality 
+
 Phase 2	Implement Audio and Video call (peer to peer)
+
 Phase 3	Implementing File Transfer.
 
 > **You can check the screenshots of User Interface [here](https://drive.google.com/drive/folders/1GzBt50KR9NblGV08vmYf0G--Urnfc6-l?usp=sharing).**
